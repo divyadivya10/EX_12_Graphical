@@ -1,5 +1,4 @@
 ## Ex.No:12 Design an application that draws basic graphical primitives on the screen.
-## Date:
 ## AIM:
 To create and design an android application that draws basic graphical primitives on the screen using Android Studio.
 
@@ -82,7 +81,8 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/435ecdb1-f925-40f0-90b4-55750d7503c3)
+
+![Screenshot 2024-10-24 112810](https://github.com/user-attachments/assets/e546292b-9230-48f1-908f-3c7dda1d1064)
 
 ## RESULT
 Thus a Simple Android Application to create and design an android application that draws basic graphical primitives on the screen using Android Studio is developed and executed successfully.
