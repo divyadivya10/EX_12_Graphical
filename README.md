@@ -1,6 +1,8 @@
 ## Ex.No:12 Design an application that draws basic graphical primitives on the screen.
 Developed by: DIVYA R
+
 Registeration Number :212222040040
+
 Date:4/11/24
 ## AIM:
 To create and design an android application that draws basic graphical primitives on the screen using Android Studio.
